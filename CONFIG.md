@@ -37,7 +37,7 @@ moglist
 > - did:plc:1234
 > - @spamspamspam.bsky.social
 
-- 7R
+- FF7
 - モーグちゃん
 
 # safeMode
