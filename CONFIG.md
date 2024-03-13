@@ -37,6 +37,9 @@ moglist
 > - did:plc:1234
 > - @spamspamspam.bsky.social
 
+- 7R
+- モーグちゃん
+
 # safeMode
 
 > Safe mode limits the total number of API calls coming from Cloudflare.
